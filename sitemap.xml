@@ -1,17 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-   <url>
-
-      <loc>http://www.hz-jc.club/</loc>
-
-      <lastmod>2019-08-20</lastmod>
-
-      <changefreq>monthly</changefreq>
-
-      <priority>0.8</priority>
-
-   </url>
-
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+       http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+>
+<url>
+ <loc>http://www.kungfu-edu.com</loc>
+ <priority>1.0</priority>
+ <lastmod>2019-11-05</lastmod>
+ <changefreq>always</changefreq>
+</url>
+<url>
+ <loc>http://www.kungfu-edu.com/d0381cf0b8194998a78c660a8fd59a74.html</loc>
+ <priority>0.8</priority>
+ <lastmod>2019-11-05</lastmod>
+ <changefreq>always</changefreq>
+</url>
+<url>
+ <loc>http://www.kungfu-edu.com/6d47e57c1a224356ac8ea271e4fa2d8e.html</loc>
+ <priority>0.8</priority>
+ <lastmod>2019-11-05</lastmod>
+ <changefreq>always</changefreq>
+</url>
+<url>
+ <loc>http://www.kungfu-edu.com/8ee43307c76f45f89913235dfe27fca3.html</loc>
+ <priority>0.8</priority>
+ <lastmod>2019-11-05</lastmod>
+ <changefreq>always</changefreq>
+</url>
+<url>
+ <loc>http://www.kungfu-edu.com/54871db2389c4dae86183b5fb4bf47ae.html</loc>
+ <priority>0.9</priority>
+ <lastmod>2019-11-05</lastmod>
+ <changefreq>always</changefreq>
+</url>
+<url>
+ <loc>http://www.kungfu-edu.com/5899d4d43eea4eb0808d6caca046899b.html</loc>
+ <priority>0.5</priority>
+ <lastmod>2019-11-05</lastmod>
+ <changefreq>always</changefreq>
+</url>
+<url>
+ <loc>http://www.kungfu-edu.com/6cc63135759b497393119151e8dc669c.html</loc>
+ <priority>0.5</priority>
+ <lastmod>2019-11-05</lastmod>
+ <changefreq>always</changefreq>
+</url>
 </urlset>
